@@ -1,6 +1,6 @@
 # Conceitos básicos de banco de dados
 
-1. [Banco de dados](https://github.com/lucasbrandao4770/bd-2022-1-bia/new/main#1-banco-de-dados)
+1. [Banco de dados](https://github.com/lucasbrandao4770/bd-2022-1-bia/blob/main/topicos/topico2a.md#1-banco-de-dados)
 2. [Dado]()
 3. [Tipo de dado]()
 4. [Meta-dado]()
